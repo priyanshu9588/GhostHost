@@ -1,2 +1,0 @@
-# GhostHost
-yaya
